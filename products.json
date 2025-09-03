@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Complete Web Development Course",
+      "description": "Master modern web development with HTML5, CSS3, JavaScript, React, and Node.js. Includes 50+ hours of content, project files, and lifetime access.",
+      "price": "$97",
+      "image": "assets/web-dev-course.jpg",
+      "payhipLink": "https://payhip.com/b/WEB001"
+    },
+    {
+      "id": 2,
+      "name": "UI/UX Design Masterclass",
+      "description": "Learn professional UI/UX design principles, Figma workflows, and create stunning user interfaces. Perfect for beginners and intermediate designers.",
+      "price": "$79",
+      "image": "assets/ux-design-course.jpg",
+      "payhipLink": "https://payhip.com/b/UX002"
+    },
+    {
+      "id": 3,
+      "name": "Premium Website Templates Pack",
+      "description": "20 professional website templates built with modern technologies. Fully responsive, easy to customize, and includes source files.",
+      "price": "$149",
+      "image": "assets/website-templates.jpg",
+      "payhipLink": "https://payhip.com/b/TEMP003"
+    },
+    {
+      "id": 4,
+      "name": "Digital Marketing Toolkit",
+      "description": "Complete digital marketing course with templates, strategies, and tools. Learn SEO, social media marketing, and email campaigns.",
+      "price": "$129",
+      "image": "assets/digital-marketing.jpg",
+      "payhipLink": "https://payhip.com/b/MARK004"
+    },
+    {
+      "id": 5,
+      "name": "Photoshop Design Resources",
+      "description": "1000+ high-quality design assets including brushes, textures, mockups, and PSD templates. Perfect for graphic designers and creatives.",
+      "price": "$59",
+      "image": "assets/photoshop-resources.jpg",
+      "payhipLink": "https://payhip.com/b/PS005"
+    },
+    {
+      "id": 6,
+      "name": "JavaScript Algorithms & Data Structures",
+      "description": "Master computer science fundamentals with JavaScript. Includes algorithms, data structures, coding challenges, and interview preparation.",
+      "price": "$89",
+      "image": "assets/javascript-algorithms.jpg",
+      "payhipLink": "https://payhip.com/b/JS006"
+    },
+    {
+      "id": 7,
+      "name": "Mobile App Design Kit",
+      "description": "Professional mobile app design components and screens. iOS and Android compatible, includes Sketch and Figma files.",
+      "price": "$69",
+      "image": "assets/mobile-app-kit.jpg",
+      "payhipLink": "https://payhip.com/b/MOB007"
+    },
+    {
+      "id": 8,
+      "name": "E-commerce Business Guide",
+      "description": "Step-by-step guide to building a successful online store. Includes business strategies, marketing plans, and case studies.",
+      "price": "$99",
+      "image": "assets/ecommerce-guide.jpg",
+      "payhipLink": "https://payhip.com/b/ECOM008"
+    },
+    {
+      "id": 9,
+      "name": "Logo Design Mega Pack",
+      "description": "500+ professional logo templates in various styles. Fully editable vector files, perfect for businesses and personal projects.",
+      "price": "$39",
+      "image": "assets/logo-pack.jpg",
+      "payhipLink": "https://payhip.com/b/LOGO009"
+    }
+  ]
+}
